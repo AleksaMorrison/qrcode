@@ -28,7 +28,9 @@
   background-color: var(--white);
   border-radius: 20px;
   padding: var(--spacing-200);
+  padding-bottom: var(--spacing-500);
   width: 320px;
+  box-shadow: var(--shadow);
   height: min-content;
    
   & .qrcode {
@@ -36,9 +38,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    column-gap: var(--spacing-300);
+    gap: var(--spacing-300);
 
     &-text {
       display: flex;
@@ -47,7 +47,7 @@
       justify-content: center;
       padding-left: var(--spacing-200);
       padding-right: var(--spacing-200);
-      column-gap: var(--spacing-200);
+      gap: var(--spacing-200);
 
       & p {
         margin-top: 0;
@@ -77,8 +77,6 @@
     }
 
   }
-
-  
 
   & .attribution { 
       display: none;
