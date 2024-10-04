@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: '/vite-deploy-demo/',
+  base: '/qrcode/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
