@@ -1,29 +1,34 @@
-# qrcode
+# Frontend Mentor - QR code component solution
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
 
-## Customize configuration
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Overview
 
-## Project Setup
+### Screenshot
 
-```sh
-npm install
-```
+![](./qrcode.jpeg)
 
-### Compile and Hot-Reload for Development
+### Links
 
-```sh
-npm run dev
-```
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-### Compile and Minify for Production
+## My process
 
-```sh
-npm run build
-```
+### Built with
+
+- Semantic HTML5 markup
+- SCSS
+- Flexbox
+- Mobile-first workflow
+- [Vue](https://vuejs.org/)
